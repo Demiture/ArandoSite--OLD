@@ -139,6 +139,7 @@ iframe {
       padding: 0;
       font-size: 0.9em;
       list-style: none;
+      text-align: center;
     }
 
       #foot .copyright li {
